@@ -42,7 +42,7 @@
         img {
             margin-left: 20px;
             opacity: 0;
-            width: 32px;
+            width: 50px;
             height: auto;
             animation: rotateIn 1s linear both;
             animation-delay: 1.6s;
@@ -75,7 +75,7 @@
     }
 
     &:hover {
-        background: #ffd700;
+        background: #256cb7;
         color: #333;
     }
 
